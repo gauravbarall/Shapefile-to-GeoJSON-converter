@@ -1,0 +1,5 @@
+geopandas
+streamlit
+shapely
+fiona
+pyproj
